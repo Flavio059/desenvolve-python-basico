@@ -1,0 +1,9 @@
+Solução algoritmica - Regra dos 9 - Pseudocódigo
+
+
+1 - Início;
+2 - Leia 9,n; #Entrada
+3 - Dígito 01 = n-1; Dígito 02 = 10-n; #Processamento
+4 - X = Dígito 01 * 10 + Dígito 02; #Processamento
+5 - Imprima X; #Saída
+6 - Fim
