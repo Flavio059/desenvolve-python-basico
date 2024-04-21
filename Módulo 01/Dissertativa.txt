@@ -1,6 +1,0 @@
-Solução Algoritmica - Regra dos 9 - Dissertativa
-
-1 - Leia do teclado e armazene o número 9 vezes o número n; #Entrada
-2 - Aplique a operação de n menos 1 que será o dígito 1 e a operação de 10 menos n que será o dígito 2 e aramzene os resultados; #Processamento
-3 - Aplique a operação de dígito 1 x 10 + dígito 2 e aramzene o resultado; #Processamento
-3 - Apresente na tela o resultado e finalize o programa; #Saída
