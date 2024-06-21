@@ -1,0 +1,4 @@
+A empresa que modelamos foi uma loja de roupas. O sistema gerencia os produtos da empresa utilizando armazenamento em arquivo CSV e estruturas de dados em memória. 
+
+Para uma aplicação melhor entendemos que o uso do banco de dados seria uma melhor opção. 
+
